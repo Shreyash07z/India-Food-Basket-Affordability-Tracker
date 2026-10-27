@@ -1,4 +1,4 @@
-ndian Mandi Vegetable Price Analysis
+## Indian Mandi Vegetable Price Analysis
 
 A pandas-based analysis of daily mandi prices for selected vegetables across Indian markets, exploring seasonal trends, price volatility, and regional differences.
 
